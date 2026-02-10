@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="muted_teal">#96AE95</color>
+    <color name="soft_linen">#DCE4DC</color>
+    <color name="muted_olive">#9EC791</color>
+    <color name="forest_green">#3D8F22</color>
+    <color name="sage_green">#6EAB59</color>
+</resources>
